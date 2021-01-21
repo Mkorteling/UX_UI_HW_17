@@ -88,7 +88,10 @@ font-family: Open Sans;
 background: #27153E;
 }
 .content {
-    width: 60%;
+    width: 417px;
+    height: 506px;
+    left: 483px;
+    top: 164px;
     margin: auto;
     padding: 46px 57px 52px 63px;
     background-color: #ffffff;
