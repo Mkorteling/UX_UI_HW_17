@@ -1,0 +1,124 @@
+.inline_block {
+    display: inline-block;
+    vertical-align: top;
+padding: 40px
+}
+
+.navigation {
+    background: white;
+}
+.logo {
+text-align: center;
+    padding: 1%;
+    position: absolute;
+    width: 65px;
+    height: 39.12px;
+    left: 87px;
+    top: 18.63px;
+    
+
+}
+
+.initialScale {
+    width: 73%;
+padding: 1%;
+}
+ol {
+    width: 50%;
+    margin-left: auto;
+    display: inline;
+    position: absolute;
+    left: 1081px;
+    top: 30px;
+font-family: Avenir Next;
+font-style: normal;
+    
+    
+    
+}
+
+.herolmg {
+    height: 730px;
+    padding: 25px;
+    background: #DDDCFD;
+    }
+
+h1 {
+    position: absolute;
+width: 214px;
+height: 34px;
+left: 588px;
+top: 316px;
+
+font-family: Avenir Next;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 34px;
+
+color: #5452F6;
+
+}
+
+p {
+    position: absolute;
+width: 297px;
+height: 158px;
+left: 546px;
+top: 370px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+
+color: #27153E;
+}
+
+button { 
+    position: absolute;
+width: 150px;
+height: 45px;
+left: 617px;
+top: 573px;
+color: #ffffff;
+font-family: Open Sans;
+background: #27153E;
+}
+.content {
+    width: 60%;
+    margin: auto;
+    padding: 46px 57px 52px 63px;
+    background-color: #ffffff;
+    text-align:center;
+}
+
+.pic {
+    position: absolute;
+width: 76.91px;
+height: 80px;
+left: 653px;
+top: 210px;
+}
+
+footer {
+    background-color:#27153E ;
+    padding: 5px;
+  
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    color:#ffffff;
+    
+}
+li {
+  display: inline;
+  float:center;
+padding: 20px;
+font-family: Avenir Next;
+font-style: normal;
+
+}
