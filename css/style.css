@@ -59,13 +59,13 @@ font-style: normal;
 }
 
 .herolmg {
-    height: 730px;
+    height: 590px;
     padding: 70px;
     background: #DDDCFD;
     }
 
 h1 {
-    position: absolute;
+    position: sticky;
 width: 214px;
 height: 34px;
 left: 588px;
@@ -82,7 +82,7 @@ color: #5452F6;
 }
 
 p {
-    position: absolute;
+    position: sticky;
 width: 297px;
 height: 158px;
 left: 546px;
@@ -99,7 +99,7 @@ color: #27153E;
 }
 
 button { 
-    position: absolute;
+    position: sticky;
 width: 150px;
 height: 45px;
 left: 617px;
@@ -109,6 +109,7 @@ font-family: Open Sans;
 background: #27153E;
 }
 .content {
+    position: sticky;
     width: 417px;
     height: 500px;
     left: 400px;
@@ -120,7 +121,7 @@ background: #27153E;
 }
 
 .pic {
-position: absolute;
+position: sticky;
 width: 76.91px;
 height: 80px;
 left: 653px;
@@ -129,7 +130,7 @@ top: 210px;
 
 footer {
     background-color:#27153E ;
-    padding: 30px;
+    padding: 55px;
   
 }
 ul {
@@ -141,7 +142,7 @@ ul {
 li {
   display: inline;
   float:center;
-padding: 20px;
+padding: 30px;
 font-family: Avenir Next;
 font-style: normal;
 
